@@ -8,7 +8,7 @@
 
 ## Photo 🎴
    <div align='center' >
-   <img src="./src/assets/movie.gif">
+   <img src="./Imgs/apresentacao.gif" >
   
    </div>
    
@@ -40,11 +40,15 @@ semantic and a CSS with some properties !!</p>
    
    <h3 align="center"> Technologies used in the project 🙃 </h3>
    
-   <img src='./src/assets/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
+   <img src='./Imgs/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
    
+   <br>
+
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
   
+   <br>
+   <br>
    
    
  ## Author 🙋🏾‍♂️
