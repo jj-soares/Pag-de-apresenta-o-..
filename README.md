@@ -1,46 +1,51 @@
 <h1 align="center">
- 💻  Pagina de Apresentaçao de projetos 💻
+ 💻  Project Presentation Page 💻
 </h1>
 
 <h4 align="center">
-  💻Pagina para mostrar um pouco mais dos meus projetos e sobre mim!
+  💻 Page to show a little more of my projects and about me!
 </h4>
 
+## Photo 🎴
+   <div align='center' >
+   <img src="./src/assets/movie.gif">
+  
+   </div>
+   
+   
 <p align="center">   
-   <a href="#sobre">Sobre</a> .
-   <a href="#roadmap">Roadmap</a> .
-   <a href="#tecnologias">Tecnologias</a> .
-   <a href="#fotos">Fotos</a> . 
-   <a href="#autor">Autor</a>
+   <a href="#On">On</a> .
+   <a href="#Roadmap">Roadmap</a> .
+   <a href="#Technologies">Technologies</a> .
+   <a href="#Photos">Photos</a> . 
+   <a href="#Author">Author</a> 
+   
  </p>
 
 
-   
- # Sobre 
+ ## On ✔
      
      
-   <p> Fiz esse projeto para mostrar um pouco mais sobre alguns projetos que ja tenho e tambem um pouco mais sobre minha pessoa! </p>
+   <p> I made this project to show a little more about some projects I already have and also a little more about myself! </p>
+   
+ 
+   
+ ## Roadmap 🗺
+   
+   <p> This project was created solely with HTML and CSS, in it I can bring a lot of things that I've already learned, such as responsiveness, having an Html
+semantic and a CSS with some properties !!</p>
    
    
+ ## Technologies 🚀
    
+   <h3 align="center"> Technologies used in the project 🙃 </h3>
    
+   <img src='./src/assets/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
    
-   # Roadmap 
-   
-   <p> Esse projeto foi criado unicamente com HTML e CSS, nele eu consigo trazer bastante coisa que ja aprendi como reponsividade, ter um Html 
-semantico e um Css com algumas propriedades !!</p>
-   
-   
-   # Tecnologias 
-   <h3 align="center"> Tecnolgias usadas no projeto </h3>
-  <p>HTML</p>
-  <p>CSS</p>
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
   
    
    
-   # Fotos 
-   
-   <img src="./Imgs/pag readme.gif">
-   
-   # Autor 
-   <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>
+ ## Author 🙋🏾‍♂️
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
